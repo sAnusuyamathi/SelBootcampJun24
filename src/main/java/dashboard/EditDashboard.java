@@ -1,4 +1,4 @@
-package createDashboard;
+package dashboard;
 
 public class EditDashboard {
 

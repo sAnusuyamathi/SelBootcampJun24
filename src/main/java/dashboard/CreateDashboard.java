@@ -1,10 +1,10 @@
-package createDashboard;
+package dashboard;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class createDashboard {
+public class CreateDashboard {
 
 public static void main(String[] args) throws InterruptedException {
 	ChromeOptions optionsBrowser = new ChromeOptions();
